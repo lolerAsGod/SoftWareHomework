@@ -1,0 +1,19 @@
+.cellRow{
+	height: 41px;
+	width: 332px;
+}
+.cell{
+	height: 40px;
+	width: 40px;
+	border: 0.5px solid grey;
+	float: left;
+}
+.button{
+	font: 16px/1.5 Helvetica Neue,tahoma,arial,"Hiragino Sans GB",Microsoft YaHei;
+	border: 1px solid grey;
+	border-radius: 5px; 
+	width: 100px;
+	text-align: center;
+	padding: 10px 10px;
+	margin-top: 20px;
+}
